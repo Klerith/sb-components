@@ -5,10 +5,12 @@
 /.pnp
 .pnp.js
 
+
 # testing
 /coverage
 
 # production
+/dist
 /build
 /storybook-static
 
